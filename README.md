@@ -1,6 +1,6 @@
 # Dennys-Andrade
 # 🌌 Bem-vindo ao meu GitHub!
-`https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701739024.jpg`
+https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701739024.jpg
 
 ## Olá, eu sou Dennys Andrade!
 
