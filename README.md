@@ -1,6 +1,6 @@
 # Dennys-Andrade
 # 🌌 Bem-vindo ao meu GitHub!
-<https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701739024.jpg>
+[(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701739024.jpg)]
 
 ## Olá, eu sou Dennys Andrade!
 
@@ -33,7 +33,7 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wa
 
 ## Vamos nos conectar!
 
-[![LinkedIn](www.linkedin.com/in/dennys-andrade-pcd-4983832aa)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/dennys-andrade-pcd-4983832aa)
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:andrade1den@gmail.com)
 
 
