@@ -1,5 +1,5 @@
 # Dennys-Andrade
-# 👨🏽‍💻👒 Bem-vindo ao meu GitHub!
+# 👨🏽‍💻 Bem-vindo ao meu GitHub!
 
 ![Geeks](https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701739024.jpg)
 
