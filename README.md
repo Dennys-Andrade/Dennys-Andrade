@@ -1,16 +1,15 @@
 # Dennys-Andrade
 # 🌌 Bem-vindo ao meu GitHub!
-![Avatar](2.jpg)
+<https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701739024.jpg>
 
 ## Olá, eu sou Dennys Andrade!
 
-🌌 *"Em uma galáxia muito, muito distante..."*
 
 Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wars. Aqui está um pouco mais sobre mim:
 
 - 💻 Desenvolvedor Full Stack em Java
-- 🚀 Amante de Star Wars
-- 🌟 Sempre aprendendo novas tecnologias
+- 🚀 GEEK
+- Buscando novos desafios para evolução continua
 
 ## Tecnologias que eu uso:
 
@@ -34,9 +33,7 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wa
 
 ## Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dennys-albuquerque-a-andrade-277389129/)
+[![LinkedIn](www.linkedin.com/in/dennys-andrade-pcd-4983832aa)
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:andrade1den@gmail.com)
 
-## Que a Força esteja com você!
 
-![Jedi](https://th.bing.com/th/id/R.01b2ecf2b9fb20ed40b761164207d3b4?rik=DVAhaky%2bMS0T%2fw&pid=ImgRaw&r=0)
