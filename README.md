@@ -40,7 +40,7 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wa
 
 Sempre em frente!
 
-![GIF]([https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://i.pinimg.com/originals/2f/56/90/2f5690ee185f5345025b1a5b0bf2c8aa.gif))
+![GIF](https://i.pinimg.com/originals/2f/56/90/2f5690ee185f5345025b1a5b0bf2c8aa.gif])
 
 
 
