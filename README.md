@@ -5,7 +5,7 @@
 
 ## Olá, eu sou Dennys Andrade!
 
-Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wars. Aqui está um pouco mais sobre mim:
+Eu sou um desenvolvedor full stack apaixonado por tecnologia e mundo geek Aqui está um pouco mais sobre mim:
 
 - 💻 Desenvolvedor Full Stack em Java
 - 🚀 GEEK
